@@ -1,0 +1,12 @@
+server:
+  port: 8090
+spring:
+  security:
+    user:
+      name: user
+      password: pass
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/casbin?useSSL=false
+    username: root
+    password: casbin_test
