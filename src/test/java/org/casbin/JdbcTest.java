@@ -30,7 +30,6 @@ public class JdbcTest {
     private String username="root";
     private String password="casbin_test";
     private String driver="com.mysql.jdbc.Driver";
-
     @Test
     public void TestJdbc() throws Exception {
         //save policy to database
