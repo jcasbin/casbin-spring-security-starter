@@ -1,4 +1,4 @@
-# using casbin in SpringSecurity
+# casbin-spring-security-starter
 
 ## inform
     To skip the tedious and complicated login process of Spring Security, 
