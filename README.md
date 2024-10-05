@@ -1,4 +1,16 @@
 # casbin-spring-security-starter
+![License](https://img.shields.io/github/license/jcasbin/casbin-spring-security-starter)
+[![Maven Central](https://img.shields.io/maven-central/v/org.casbin/casbin-spring-security-starter.svg)](https://central.sonatype.com/artifact/org.casbin/casbin-spring-security-starter)
+
+## Installation
+
+``` xml
+<dependency>
+    <groupId>org.casbin</groupId>
+    <artifactId>casbin-spring-security-starter</artifactId>
+    <version>1.0.0</version>
+</dependency>
+```
 
 ## inform
     To skip the tedious and complicated login process of Spring Security, 
